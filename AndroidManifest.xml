@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.cyanogenmod.djdarkknight96.blakkatlite"
+    android:versionCode="1"
+    android:versionName="1.0" android:installLocation="internalOnly">
+    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Example Theme Name"/>
+    <meta-data android:name="org.cyanogenmod.theme.author" android:value="Example Theme Author" />
+</manifest>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Preference">
+        <item name="android:layout">@*android:layout/preference</item>
+    </style>
+
+    <style name="Preference.SwitchPreference">
+        <item name="android:widgetLayout">@*android:layout/preference_widget_switch</item>
+        <item name="android:switchTextOn">On</item>
+        <item name="android:switchTextOff">Off</item>
+    </style>
+
+    <style name="TextAppearance">
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:textColorHighlight">@color/text_color</item>
+        <item name="android:textColorHint">@color/light_grey</item>
+        <item name="android:textColorLink">@color/light_grey</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+
+    <style name="TextAppearance.DialogWindowTitle" parent="@*android:style/TextAppearance">
+        <item name="android:textSize">64sp</item>
+    </style>
+
+</resources>

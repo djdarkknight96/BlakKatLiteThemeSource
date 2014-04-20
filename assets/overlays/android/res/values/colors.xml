@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#ff000000</color>
+    <color name="text_color">#ffefefef</color>
+    <color name="bright_foreground_dark">@*android:color/background_light</color>
+    <color name="bright_foreground_light">@*android:color/background_dark</color>
+    <color name="bright_foreground_dark_disabled">#80ffffff</color>
+    <color name="bright_foreground_light_disabled">#80000000</color>
+    <color name="bright_foreground_dark_inverse">@*android:color/bright_foreground_light</color>
+    <color name="bright_foreground_light_inverse">@*android:color/bright_foreground_dark</color>
+    <color name="light_grey">#ffaaaaaa</color>
+    <color name="holo_blue_light">#ff8c8c8c</color>
+    <color name="holo_blue_dark">#ffdfdfdf</color>
+    <color name="holo_green_light">#ff8c8c8c</color>
+    <color name="holo_green_dark">#ff666666</color>
+    <color name="holo_red_light">#ff8c8c8c</color>
+    <color name="holo_red_dark">#ff666666</color>
+    <color name="holo_orange_light">#ff8c8c8c</color>
+    <color name="holo_orange_dark">#ff666666</color>
+    <color name="holo_purple">#ff666666</color>
+    <color name="holo_blue_bright">#ff8c8c8c</color>
+    <color name="highlighted_text_dark">#66aaaaaa</color>
+    <color name="highlighted_text_light">#66aaaaaa</color>
+    <color name="link_text_dark">#ffbebebe</color>
+    <color name="link_text_light">#ff8c8c8c</color>
+    <color name="suggestion_highlight_text">#ff6a6a6a</color>
+    <color name="highlighted_text_holo_dark">#66aaaaaa</color>
+    <color name="highlighted_text_holo_light">#66aaaaaa</color>
+</resources>
